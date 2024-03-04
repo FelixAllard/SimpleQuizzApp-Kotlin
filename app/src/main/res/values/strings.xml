@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Simple Quiz App</string>
+    <string name="question_1">What is the capital of France?</string>
+    <string-array name="answers_1">
+        <item>Paris</item>
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Madrid</item>
+    </string-array>
+    <integer name="correct_answer_1">1</integer>
+
+    <string name="question_2">What is the largest ocean on Earth?</string>
+    <string-array name="answers_2">
+        <item>Pacific Ocean</item>
+        <item>Atlantic Ocean</item>
+        <item>Indian Ocean</item>
+        <item>Arctic Ocean</item>
+    </string-array>
+    <integer name="correct_answer_2">1</integer>
+
+    <string name="question_3">Who painted the Mona Lisa?</string>
+    <string-array name="answers_3">
+        <item>Leonardo da Vinci</item>
+        <item>Michelangelo</item>
+        <item>Pablo Picasso</item>
+        <item>Vincent van Gogh</item>
+    </string-array>
+    <integer name="correct_answer_3">1</integer>
+
+    <!-- Did 3 for the sake of demonstration, could add more -->
+</resources>
